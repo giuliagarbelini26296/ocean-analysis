@@ -2,7 +2,8 @@
 
 **Análise de dados de oceanografia física** — correntes, temperatura e salinidade oceânicas usando R.
 
-![T-S Diagram](outputs/figures/ts_diagram.png)
+<img width="1620" height="1260" alt="image" src="https://github.com/user-attachments/assets/7c0cb426-20e9-4f51-8746-1eaad250dd64" />
+
 
 ---
 
@@ -10,11 +11,13 @@
 
 | Correntes Superficiais | Anomalia de SST |
 |---|---|
-| ![Correntes](outputs/figures/current_map.png) | ![SST](outputs/figures/sst_anomaly.png) |
+<img width="1980" height="1260" alt="image" src="https://github.com/user-attachments/assets/dba66476-2fcc-4321-8c64-b446312a9386" />
+|
 
 ### Perfis Verticais de T e S
 
-![Perfis](outputs/figures/vertical_profiles.png)
+<img width="1800" height="1440" alt="image" src="https://github.com/user-attachments/assets/3ea259d8-4625-45bd-9f86-603a5a7c66f6" />
+
 
 ---
 
