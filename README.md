@@ -12,7 +12,8 @@
 | Correntes Superficiais | Anomalia de SST |
 |---|---|
 <img width="1980" height="1260" alt="image" src="https://github.com/user-attachments/assets/dba66476-2fcc-4321-8c64-b446312a9386" />
-|
+<img width="1980" height="1170" alt="image" src="https://github.com/user-attachments/assets/1ec09a7a-d0a9-433b-92e2-6cabda7ea9ce" />
+
 
 ### Perfis Verticais de T e S
 
